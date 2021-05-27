@@ -4,6 +4,7 @@ metadata:
   name: contentful-starter-blog
   annotations:
     github.com/project-slug: cnoble/contentful-starter-blog
+    lighthouse.com/website-url: https://quirky-hoover-177c5c.netlify.app
 spec:
   type: website
   lifecycle: experimental
