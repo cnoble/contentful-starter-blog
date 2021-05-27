@@ -1,10 +1,10 @@
 apiVersion: backstage.io/v1alpha1
-kind: Website
+kind: Component
 metadata:
   name: contentful-starter-blog
   annotations:
     github.com/project-slug: cnoble/contentful-starter-blog
 spec:
   type: website
-  lifecycle: development
+  lifecycle: experimental
   owner: team-a
